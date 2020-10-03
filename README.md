@@ -1,12 +1,3 @@
-# Caravan
-
-## Projeto prático Caravan feito através do curso de Bootstrap 4 [Origamid](https://www.origamid.com/curso/bootstrap-4)
-
-## Link do Projeto: [Caravan](https://marcelo-rafael.github.io/caravan/)
-
-![Caravan](projeto-caravan.jpg)
-
-
 <p align="center">
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
