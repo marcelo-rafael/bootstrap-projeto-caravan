@@ -11,7 +11,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelo-rafael/caravan?color=informational">
   
-  <a href="https://github.com/marcelo-rafael/happy/commits/master">
+  <a href="https://github.com/marcelo-rafael/caravan/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/caravan?color=informational">
   </a>
 
