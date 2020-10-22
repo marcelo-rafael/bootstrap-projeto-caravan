@@ -1,72 +1,114 @@
-<p align="center">
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
+
 <h1 align="center">
-    <img alt="Carava" title="#Caravan" src="./caravan.png" />
+    <img alt="Caravan" title="#Caravan" src=".github/caravan.png" />
 </h1>
 
+
+<p align="center">
+  <img alt="Author" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=flat-square">
+	
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/caravan?color=informational">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelo-rafael/caravan?color=informational">
+  
+  <a href="https://github.com/marcelo-rafael/happy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/caravan?color=informational">
+  </a>
+
+  <a href="https://github.com/marcelo-rafael/caravan/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/marcelo-rafael/caravan?color=informational">
+  </a>
+
+  <a href="https://github.com/marcelo-rafael/caravan/blob/master/LICENSE.md">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
+  <a>
+   
+   <a href="https://github.com/marcelo-rafael/caravan/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/caravan?style=flat-square?color=informational">
+  </a>
+  
+  <a href="https://github.com/marcelo-rafael/caravan/stargazers">
+    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/caravan?style=flat-square?color=informational">
+  </a>
+  
+  <a href="https://github.com/marcelo-rafael/caravan/stargazers">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/marcelo-rafael/caravan?style=flat-square&color=informational">
+  </a>
+</p>
+
 <h4 align="center"> 
-	🚧  Bootstrap 4 🚧
+	🚧  Caravan 🚧
 </h4>
 <p align="center">Deployed <a href="https://marcelo-rafael.github.io/caravan/">here</a>.</p>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
-</p>
+# :pushpin: Table of Contents
 
-
-## 💻 Sobre o projeto
-
-Projeto prático Caravan feito através do curso de Bootstrap 4 da [Origamid](https://www.origamid.com/curso/bootstrap-4).
+* [About](#computer-about)
+* [Installation](#construction_worker-installation)
+* [Tech Stack](#rocket-tech-stack)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [Author](#man-author)
+* [License](#closed_book-license)
 
 ---
 
+# :computer: About
 
-## 🚀 Como executar o projeto
+Caravan is a project to practice the features of the Bootstrap 4 framework such as Grid, Modal, Buttons, Typography, Carousel, Forms and more.
+ 💜
 
-Este projeto é feito em uma parte:
+project developed during the Bootstrap 4 course offered by the [Origamid](https://www.origamid.com/curso/bootstrap-4)
 
-1. Frontend (bootstrap_4 folder)
+---
+
+# :construction_worker: Installation
 
 
-#### 🧭 Rodando a aplicação web
+This project is done in one part
+
+1. Frontend (caravan folder)
+
+#### Running the web application (Frontend)
 
 ```bash
 
-# Clone este repositório
-$ git clone https://github.com/marcelo-rafael/bootstrap-brafe-1
+# Clone this repository
+$ git clone https://github.com/marcelo-rafael/caravan
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd bootstrap_4
+# Access the project folder in your terminal
+$ cd caravan
 
 
 ```
 
 ---
 
+# :rocket: Tech Stack
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 -   **[bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)**
 
 ---
 
-## 💪 Como contribuir para o projeto
+# :bug: Issues
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+Feel free to **file a new issue** with a respective title and description on the the [caravan](https://github.com/marcelo-rafael/caravan/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/marcelo-rafael/caravan/blob/master/CONTRIBUTING.md) to find out about the coding standards.
 
 ---
 
-## Autor
+# :tada: Contributing
+
+1. Fork the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
+> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
+
+---
+
+# :man: Autor
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
@@ -75,10 +117,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
+# :closed_book: License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE).
 
 
-Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
-
+Made with love by [Marcelo Rafael](https://github.com/marcelo-rafael) 💜🚀
