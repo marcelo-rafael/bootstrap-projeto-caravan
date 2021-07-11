@@ -3,123 +3,124 @@
     <img alt="Caravan" title="#Caravan" src=".github/caravan.png" />
 </h1>
 
-
-<p align="center">
-  <img alt="Author" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=flat-square">
-	
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/caravan?color=informational">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelo-rafael/caravan?color=informational">
-  
-  <a href="https://github.com/marcelo-rafael/caravan/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/caravan?color=informational">
+<div align="center">
+  <!-- LICENSE -->
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+<!-- LAST COMMIT -->
+<a href="https://github.com/marcelo-rafael/origamid-caravan
+/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/origamid-caravan
+?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
   </a>
-
-  <a href="https://github.com/marcelo-rafael/caravan/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/marcelo-rafael/caravan?color=informational">
+<!-- STARS -->
+  <a href="https://github.com/marcelo-rafael/origamid-caravan
+/stargazers/master">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/origamid-caravan
+?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
-
-  <a href="https://github.com/marcelo-rafael/caravan/blob/master/LICENSE.md">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
-  <a>
-   
-   <a href="https://github.com/marcelo-rafael/caravan/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/caravan?style=flat-square?color=informational">
+  <!-- FORKS -->
+  <a href="https://github.com/marcelo-rafael/origamid-caravan
+/forks/master">
+    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/origamid-caravan
+?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
-  
-  <a href="https://github.com/marcelo-rafael/caravan/stargazers">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/caravan?style=flat-square?color=informational">
-  </a>
-  
-  <a href="https://github.com/marcelo-rafael/caravan/stargazers">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/marcelo-rafael/caravan?style=flat-square&color=informational">
-  </a>
-</p>
-
-<h4 align="center"> 
-	🚧  Caravan 🚧
-</h4>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/caravan/">here</a>.</p>
-
-# :pushpin: Table of Contents
-
-* [About](#computer-about)
-* [Installation](#construction_worker-installation)
-* [Tech Stack](#rocket-tech-stack)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [Author](#man-author)
-* [License](#closed_book-license)
+  <!-- AUTHOR -->
+  <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- LANGUAGES -->
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/origamid-caravan?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- REPO SIZE -->
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/origamid-caravan?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <!-- CONTRIBUTORS -->
+ <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/origamid-caravan?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+</div>
 
 ---
 
-# :computer: About
+<h1 align="center"> 
+	  Caravan - BootStrap 4 - Origamid
+</h1>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/origamid-caravan/">here</a>.</p>
+
+---
+
+## :computer: About
 
 Caravan is a project to practice the features of the Bootstrap 4 framework such as Grid, Modal, Buttons, Typography, Carousel, Forms and more.
  💜
 
-project developed during the Bootstrap 4 course offered by the [Origamid](https://www.origamid.com/curso/bootstrap-4)
+Project developed during the Bootstrap 4 course offered by the [Origamid](https://www.origamid.com/curso/bootstrap-4)
 
 ---
 
-# :construction_worker: Installation
+## :rocket: Tech Stack
 
+The following tools were used in the construction of the project:
 
-This project is done in one part
+- **[bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)**
 
-1. Frontend (caravan folder)
+---
 
-#### Running the web application (Frontend)
+#### 🚀 How to run the project
+
+##### Prerequisites
+
+Have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+
+---
+
+#### 👯 Cloning the repository
 
 ```bash
-
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/caravan
+$ git clone https://github.com/marcelo-rafael/origamid-caravan
 
-# Access the project folder in your terminal
-$ cd caravan
 
+# Access the project folder in the terminal/cmd
+$ cd origamid-caravan
 
 ```
 
 ---
+	  
+#### 💪 How to contribute to the project
+	  
+1. 🍴 Fork the project.
+2. 👯 Clone this repository to your machine.
+3. 🎋 Create a new branch with your changes: `git checkout -b my-feature`
+4. ✅ Save the changes and create a commit message telling you what you've done: `git commit -m "feature: My new feature"`
+5. 📌 Submit your changes: `git push origin my-feature`
+6. 🔃 Create a new pull request
 
-# :rocket: Tech Stack
 
-The following tools were used in the construction of the project:
+Once your pull request has been merged, you can delete `your-feature`
 
--   **[bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)**
+> If you have any questions, check out this [GitHub Contribution Guide](https://github.com/firstcontributions/first-contributions)
+
 
 ---
 
-# :bug: Issues
+##### 🤓 Autor
 
-Feel free to **file a new issue** with a respective title and description on the the [caravan](https://github.com/marcelo-rafael/caravan/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/marcelo-rafael/caravan/blob/master/CONTRIBUTING.md) to find out about the coding standards.
-
----
-
-# :tada: Contributing
-
-1. Fork the project.
-2. Create a new branch with your changes: `git checkout -b my-feature`
-3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
-> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
-
----
-
-# :man: Autor
-
-<img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rafael-gonçalves/)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/) 
-[![Gmail Badge](https://img.shields.io/badge/-marcelo.rafael.goncalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com)](mailto:marcelo.rafael.goncalves@gmail.com)
+<img src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
+<div>
+<a href="mailto:marcelo.rafael.goncalves@gmail.com">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+<a href="https://www.linkedin.com/in/marcelo-rafael-gonçalves/">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
+<a href="https://github.com/marcelo-rafael">
+  <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-Github-0077B5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/marcelo-rafael" />
+  </a>
+</div>
 
 ---
+	  
+##### 📝 LICENSE
 
-# :closed_book: License
+This repository is licensed under the **MIT LICENSE**. For more detailed information, read the [LICENSE](./LICENSE) file contained in this repository.
 
-This project is under the [MIT](./LICENSE).
-
-
-Made with love by [Marcelo Rafael](https://github.com/marcelo-rafael) 💜🚀
+<h3 align="center">
+Made with ❤️ by <a href="https://www.linkedin.com/in/marcelo-rafael-goncalves/">Marcelo Rafael Gonçalves 💜🚀</a>
+</h3>
+	 
