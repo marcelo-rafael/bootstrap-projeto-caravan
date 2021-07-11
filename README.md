@@ -54,15 +54,15 @@ The following tools were used in the construction of the project:
 
 ---
 
-#### 🚀 How to run the project
+## 🚀 How to run the project
 
-##### Prerequisites
+### Prerequisites
 
 Have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 ---
 
-#### 👯 Cloning the repository
+## 👯 Cloning the repository
 
 ```bash
 # Clone this repository
@@ -76,7 +76,7 @@ $ cd origamid-caravan
 
 ---
 	  
-#### 💪 How to contribute to the project
+## 💪 How to contribute to the project
 	  
 1. 🍴 Fork the project.
 2. 👯 Clone this repository to your machine.
@@ -93,7 +93,7 @@ Once your pull request has been merged, you can delete `your-feature`
 
 ---
 
-##### 🤓 Autor
+## 🤓 Autor
 
 <img src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 <div>
@@ -110,7 +110,7 @@ Once your pull request has been merged, you can delete `your-feature`
 
 ---
 	  
-##### 📝 LICENSE
+## 📝 LICENSE
 
 This repository is licensed under the **MIT LICENSE**. For more detailed information, read the [LICENSE](./LICENSE) file contained in this repository.
 
